@@ -13,5 +13,7 @@ Developing innovative solutions that merge computer science and electrical engin
 📫 How to Reach Me
 
 GitHub: @1Nigar357
+
 Mail: Hajiyevanigarbms@gmail.com
+
 Linkedin: linkedin.com/in/nigar-hajiyeva-3883a8277
