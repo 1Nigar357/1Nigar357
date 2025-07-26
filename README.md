@@ -7,9 +7,7 @@ Beyond competitions, I love working on innovative projects. I have developed Eco
 My main areas of interest are artificial intelligence, computer science, and developing innovative tools that can make a difference.
 
 🚀 What I’m Working On: 
-Exploring advanced graph algorithms and data structures
-Researching AI applications in healthcare and human-computer interaction
-Developing innovative solutions that merge computer science and electrical engineering
+Researching AI applications in human-computer interaction, computer vision, and healthcare 
 
 📫 How to Reach Me
 
