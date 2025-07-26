@@ -3,7 +3,8 @@
 👀 About Me
 I'm passionate about programming, algorithms, and problem-solving. I earned a bronze medal at the European Girls' Olympiad in Informatics (EGOI) and was the highest-scoring participant from my country
 
-Beyond competitions, I love working on innovative projects. I developed Eco Cart, which became a finalist at Teknofest Azerbaijan. I'm also interested in artificial intelligence research, computer science research, quantitative finance research, and building impactful technologies.
+Beyond competitions, I love working on innovative projects. I developed Eco Cart, which became a finalist at Teknofest Azerbaijan. 
+My main areas of interest are artificial intelligence, computer science, and developing innovative tools that can make a difference.
 
 🚀 What I’m Working On: 
 Exploring advanced graph algorithms and data structures
