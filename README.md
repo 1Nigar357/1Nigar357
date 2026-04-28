@@ -15,4 +15,4 @@ GitHub: @1Nigar357
 
 Mail: Hajiyevanigarbms@gmail.com
 
-Linkedin: linkedin.com/in/nigar-hajiyeva-3883a8277
+Linkedin: linkedin.com/in/nhajiyeva
