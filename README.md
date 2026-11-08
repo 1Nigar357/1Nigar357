@@ -7,7 +7,7 @@ Beyond competitions, I love working on innovative projects. I have developed Eco
 My main areas of interest are artificial intelligence, computer science, and developing innovative tools that can make a difference.
 
 🚀 What I’m Working On: 
-Researching AI applications in human-computer interaction, computer vision, and healthcare 
+Research on diffusion and flow matching models at the University of Waterloo and the Vector Institute, in collaboration with Google
 
 📫 How to Reach Me
 
